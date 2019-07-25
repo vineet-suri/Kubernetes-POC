@@ -1,0 +1,6 @@
+{
+  "name": "master_test",
+  "connector": "memory",
+  "localStorage": "",
+  "file": "./data/db.json"
+}

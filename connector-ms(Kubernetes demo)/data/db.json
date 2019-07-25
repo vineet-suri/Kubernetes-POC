@@ -1,0 +1,10 @@
+{
+  "ids": {
+    "tenantDbConfig": 2
+  },
+  "models": {
+    "tenantDbConfig": {
+      "1": "{\"id\":1,\"name\":\"tenant_one\",\"tenant_key\":\"ten_one\",\"db_config\":{}}"
+    }
+  }
+}
